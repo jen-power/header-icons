@@ -1,12 +1,15 @@
 html {
   box-sizing: border-box;
   color: #fff;
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
 }
 
 header {
@@ -68,6 +71,5 @@ a {
 
 li {
   border: 1px solid #a63f38;
-  width: 33.333333%;
-
+  width: 33.3333%;
 }
